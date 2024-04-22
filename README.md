@@ -35,15 +35,16 @@ Além de replicar a interface do site HBO Max, este clone inclui algumas modific
 ## Screenshots 📷
 
 ### 🖥️ Desktop
-![Captura de tela 2024-04-22 100249](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/f0a0ac40-9e20-4053-b215-d404e0e9cd46)
-![Captura de tela 2024-04-22 100308](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/b77b25a3-c380-4c2c-bc54-78846e48b12a)
-![Captura de tela 2024-04-22 100341](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/892dcf66-2997-4bc2-8d5c-0af2cd8996fd)
-![Captura de tela 2024-04-22 100353](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/2f9bc839-3c32-41d9-ae9a-9414d8bc448f)
+![screencapture-127-0-0-1-5500-index-html-2024-04-22-11_23_25](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/0744611e-8455-4673-8f1a-cc8e9072a69a)
+![screencapture-127-0-0-1-5500-login-html-2024-04-22-11_21_19](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/3ec9b56c-8df6-4bec-b4cb-ba1366c0f694)
+
 
 
 ### 📱 Mobile
-![Captura de tela 2024-04-22 100531](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/e35b760b-101a-4fbb-a5be-9fb5ab4577ef)
-![Captura de tela 2024-04-22 100426](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/c417f783-1cdf-497b-a941-424991eec71e)
+
+| ![Mobile 1](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/a12c7c78-89db-4946-966c-88f76e3dc1a7) | ![Mobile 2](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/bc03f6bd-b749-4213-a474-5dfb062bafd2) |
+| --- | --- |
+| ![Mobile 3](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/7b2bcee2-8e8c-41e7-bf6b-317c37704dcf) | ![Mobile 4](https://github.com/thiago-rspereira/clone-site-hbo-max/assets/133459464/a000cba9-83d1-40e7-b141-e426361116eb) |
 
 
 
@@ -57,7 +58,7 @@ Além de replicar a interface do site HBO Max, este clone inclui algumas modific
 
 ## Autores ✒️
 
-- Thiago Pereira https://github.com/thiago-rspereira
+- [Thiago Pereira](https://github.com/thiago-rspereira)
 
 ## Conecte-se comigo nas redes sociais e vamos continuar essa jornada juntos!
 
